@@ -1,0 +1,115 @@
+
+
+
+
+.city {
+  background-color:rgb(203, 18, 223);
+  color: black;
+  border: 10px solid rgba(0, 0, 0, 0);
+  margin: 50px;
+  padding: 50px;
+  }
+
+ .city {
+  background-color:rgb(203, 18, 223);
+  color: black;
+  border: 10px solid rgb(110, 4, 86);
+  margin: 50px;
+  }
+ 
+ .ring {
+  background-color: rgb(11, 106, 207);
+  color: black;
+  border: 10px solid rgb(7, 13, 194);
+  margin: 50px;
+  padding: 50px;
+  }
+ .pink {
+  background-color: rgb(7, 196, 73);
+  color: black;
+  border: 10px solid rgb(8, 96, 47);
+  margin: 50px;
+  padding: 50px;
+  }
+
+.frog {
+    background-color: rgb(219, 89, 69);
+    color: black;
+    border: 10px solid rgb(204, 13, 3);
+    margin: 50px;
+    padding: 50px;
+    }
+
+ .man {
+        background-color: rgb(156, 196, 71);
+        color: black;
+        border: 10px solid rgb(93, 129, 9);
+        margin: 50px;
+        padding: 50px;
+        }
+
+ .pizza {
+background-color: rgb(69, 25, 178);
+color: black;
+border: 10px solid rgb(18, 4, 75);
+margin: 50px;
+padding: 50px;
+}
+
+.home {
+background-color: rgb(118, 7, 133);
+color: black;
+border: 10px solid rgb(60, 4, 47);
+margin: 50px;
+padding: 50px;
+ }
+
+.contry {
+background-color: rgb(227, 51, 60);
+color: black;
+border: 10px solid rgb(96, 8, 17);
+margin: 50px;
+padding: 50px;
+}
+
+ol {
+    background: #dd0a0a;
+    padding: 2px;
+  }
+  
+  ul {
+    background: #083460;
+    padding: 10px;
+  }
+  
+  ol li {
+    background: #b49191;
+    color: rgb(158, 39, 39);
+    padding: 5px;
+    margin-left: 35px;
+  }
+  
+  ul li {
+    background: #92bdeb;
+    color: darkblue;
+    margin: 3px;
+  }
+
+  a:link, a:visited {
+    color: rgb(0, 0, 0);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    color: rgb(33, 166, 200);
+  }
+
+  h1{
+    display: flex;
+    justify-content: center;
+    
+
+  }
