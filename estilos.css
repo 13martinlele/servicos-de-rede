@@ -1,58 +1,57 @@
-body {
-  background-image: url("Fundo\ de\ textura\ de\ lona\ azul_\ papel\ de\ parede\ de\ tecido\ limpo\ _\ Foto\ Premium.jpg");
-}
+
+.home {
+background-color: rgb(118, 7, 133);
+color: black;
+border: 10px solid rgb(60, 4, 47);
+margin: 50px;
+padding: 50px;
+ }
+
 
 .city {
-
-  background-color:rgb(171, 212, 237);
+  background-color:rgb(203, 18, 223);
   color: black;
-  border: 10px solid rgb(145, 182, 197);
+  border: 10px solid rgba(0, 0, 0, 0);
   margin: 50px;
   padding: 50px;
-  border-radius: 30px;
   }
 
  .city {
-  background-color:rgb(171, 212, 237);
+  background-color:rgb(203, 18, 223);
   color: black;
-  border: 10px solid rgb(145, 182, 197);
+  border: 10px solid rgb(110, 4, 86);
   margin: 50px;
-  border-radius: 30px;
   }
  
  .ring {
-  background-color: rgb(171, 212, 237);
+  background-color: rgb(11, 106, 207);
   color: black;
-  border: 10px solid rgb(145, 182, 197);
+  border: 10px solid rgb(7, 13, 194);
   margin: 50px;
   padding: 50px;
-  border-radius: 30px;
   }
  .pink {
-  background-color: rgb(171, 212, 237);
+  background-color: rgb(7, 196, 73);
   color: black;
-  border: 10px solid rgb(145, 182, 197);
+  border: 10px solid rgb(8, 96, 47);
   margin: 50px;
   padding: 50px;
-  border-radius: 30px;
   }
 
 .frog {
-    background-color: rgb(171, 212, 237);
+    background-color: rgb(219, 89, 69);
     color: black;
-    border: 10px solid rgb(145, 182, 197);
+    border: 10px solid rgb(204, 13, 3);
     margin: 50px;
     padding: 50px;
-    border-radius: 30px;
     }
 
  .man {
-        background-color: rgb(171, 212, 237);
+        background-color: rgb(156, 196, 71);
         color: black;
-        border: 10px solid rgb(145, 182, 197);
+        border: 10px solid rgb(93, 129, 9);
         margin: 50px;
         padding: 50px;
-        border-radius: 12px;
         }
 
  .pizza {
@@ -61,7 +60,6 @@ color: black;
 border: 10px solid rgb(18, 4, 75);
 margin: 50px;
 padding: 50px;
-border-radius: 12px;
 }
 
 .home {
@@ -80,7 +78,23 @@ margin: 50px;
 padding: 50px;
 }
 
+.baby {
+  background-color: rgb(14, 125, 82);
+  color: black;
+  border: 10px solid rgb(3, 51, 25);
+  margin: 50px;
+  padding: 50px;
+  }
+
+ol {
+    background: #dd0a0a;
+    padding: 2px;
+  }
   
+  ul {
+    background: #083460;
+    padding: 10px;
+  }
   
   ol li {
     background: #b49191;
@@ -93,7 +107,6 @@ padding: 50px;
     background: #92bdeb;
     color: darkblue;
     margin: 3px;
-   
   }
 
   a:link, a:visited {
@@ -102,7 +115,6 @@ padding: 50px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    border-radius: 12px;
   }
   
   a:hover, a:active {
@@ -115,15 +127,3 @@ padding: 50px;
     
 
   }
-
-  a:link, a:visited {
-    background-color: #13004f;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-  }
-  
-  a:hover, a:active {
-    background-color: rgb(114, 139, 185);
